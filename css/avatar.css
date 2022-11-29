@@ -1,0 +1,22 @@
+.hero-section{
+    text-align: center;
+    display: flex;
+    background-image: url(../img/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+}
+
+.trailer-section{
+    text-align: center;
+    display: flex;
+    background-image: url(../img/Rectangle\ 10\ \(1\).png);
+    background-repeat: no-repeat;
+}
+
+.containar{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: solid red;
+}
